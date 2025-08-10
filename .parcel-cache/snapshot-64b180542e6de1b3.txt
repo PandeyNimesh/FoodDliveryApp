@@ -1,4 +1,10 @@
-8743
+8744
+80C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\tapable\lib\SyncHook.js133993045298514091 0
+94C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\@parcel\utils\test\collection.test.js133993045308422958 0
+106C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\folder-archive.js.map133993045349777532 0
+97C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\react-redux\src\hooks\useReduxContext.ts133993045302185605 0
+113C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\tooltag133993045300922183 0
+53C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\README.md133993058803524963 0
 98C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\file-key-2.js133993045317707426 0
 53C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\.DS_Store133993043977007680 0
 106C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\git-compare-arrows.js133993045320545056 0
@@ -13,11 +19,6 @@
 100C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\react-router\dist\development\dom-export.js133993045297470381 0
 118C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\align-horizontal-justify-start.js133993045301843626 0
 56C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\package.json133993043977189691 0
-112C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\rectangle-horizontal.js.map133993045358755973 0
-79C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\turbo-stream\README.md133993045295674080 0
-100C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\variable.js.map133993045367081245 0
-66C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\commander133993045300477053 1
-83C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\react-redux\src\components133993045302808338 1
 97C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\anvil.js.map133993045335947788 0
 68C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\src\Components\Header.js133993043977639939 0
 78C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\msgpackr\iterators.js133993045300843204 0
@@ -50,7 +51,7 @@
 54C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\.gitignore133993043977007680 0
 98C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\case-lower.js133993045310149302 0
 106C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\separator-vertical.js133993045330443507 0
-48C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\dist133993049519807240 1
+48C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\dist133993091837342599 1
 105C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\posthtml\node_modules\domutils\lib\querying.d.ts133993045342248117 0
 116C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.1133993045301717117 0
 100C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\check-square.js133993045311103671 0
@@ -67,14 +68,6 @@
 106C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\@reduxjs\toolkit\src\query\tests\polling.test.tsx133993045317080004 0
 100C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\ticket-slash.js133993045332980445 0
 54C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\.postcssrc133993043977007680 0
-98C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\badge-info.js133993045305628381 0
-94C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\volume.js133993045334439238 0
-100C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\screen-share.js133993045330291732 0
-88C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\htmlnano\lib\modules\custom.cjs133993045299177898 0
-65C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\get-port133993045298369199 1
-98C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\book-audio.js133993045306849678 0
-47C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\src133993044366671522 1
-80C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\react-redux\src\connect133993045302645779 1
 66C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\callsites133993045293283047 1
 103C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\electron-to-chromium\full-chromium-versions.js133993045298483416 0
 102C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\@swc\helpers\cjs\_interop_require_default.cjs133993045302508922 0
@@ -88,6 +81,14 @@
 54C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\src\App.js133993043977323763 0
 79C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\term-size\package.json133993045295820030 0
 63C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\semver133993045302645779 1
+98C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\badge-info.js133993045305628381 0
+94C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\volume.js133993045334439238 0
+100C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\screen-share.js133993045330291732 0
+88C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\htmlnano\lib\modules\custom.cjs133993045299177898 0
+65C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\get-port133993045298369199 1
+98C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\book-audio.js133993045306849678 0
+47C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\src133993044366671522 1
+80C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\react-redux\src\connect133993045302645779 1
 100C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\bell-off.js.map133993045338329169 0
 70C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\src\Components\RestCard.js133993043977639939 0
 103C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\@reduxjs\toolkit\dist\query\react\cjs\index.js133993045306859660 0
@@ -389,6 +390,11 @@
 95C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\lectern.js133993045323468666 0
 94C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\@swc\helpers\src\_sliced_to_array.mjs133993045313520042 0
 67C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\color-name133993045293110360 1
+112C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\rectangle-horizontal.js.map133993045358755973 0
+79C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\turbo-stream\README.md133993045295674080 0
+100C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\variable.js.map133993045367081245 0
+66C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\commander133993045300477053 1
+83C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\react-redux\src\components133993045302808338 1
 87C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\@swc\helpers\scripts\errors.js133993045306296598 0
 99C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\replace-all.js133993045329478470 0
 91C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\tailwindcss\dist\default-theme.mjs133993045300656621 0
@@ -1113,9 +1119,6 @@
 87C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\type-fest\ts41\camel-case.d.ts133993045295820030 0
 98C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\paintbrush.js133993045327119017 0
 82C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\type-fest\ts41\index.d.ts133993045299716908 0
-86C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\domutils\lib\esm\traversal.js133993045300699295 0
-134C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-arm64-gnu.node133993045312068109 0
-78C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\parent-module\license133993045292965492 0
 87C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\turbo-stream\dist\flatten.d.ts133993045296768691 0
 98C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\caniuse-lite\data\features\will-change.js133993045322966255 0
 88C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\@reduxjs\toolkit\src\query\core133993045315689364 1
@@ -1449,7 +1452,6 @@
 102C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\@parcel\core\lib\public\MutableBundleGraph.js133993045347145487 0
 85C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\semver\functions\rcompare.js133993045301843626 0
 84C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\tapable\lib\SyncBailHook.js133993045298174232 0
-80C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\tapable\lib\SyncHook.js133993045298514091 0
 88C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\semver\ranges\max-satisfying.js133993045300699295 0
 84C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\tapable\lib\SyncLoopHook.js133993045298905168 0
 76C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\callsites\readme.md133993045293319006 0
@@ -2068,10 +2070,6 @@
 119C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\lib133993045341989964 1
 102C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\react-redux\src\utils\useSyncExternalStore.ts133993045302419119 0
 99C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\react-redux\src\utils\verifyPlainObject.ts133993045302498908 0
-94C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\@parcel\utils\test\collection.test.js133993045308422958 0
-106C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\folder-archive.js.map133993045349777532 0
-97C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\react-redux\src\hooks\useReduxContext.ts133993045302185605 0
-113C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\tooltag133993045300922183 0
 76C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\postcss\lib\node.js133993045299862779 0
 93C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\react-redux\src\hooks\useSelector.ts133993045302311093 0
 102C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\folder-dot.js.map133993045349777532 0
@@ -2620,6 +2618,9 @@
 91C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\dot.js133993045316321325 0
 79C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\parent-module\index.js133993045292500402 0
 123C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\align-horizontal-distribute-end.js.map133993045335489315 0
+86C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\domutils\lib\esm\traversal.js133993045300699295 0
+134C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-arm64-gnu.node133993045312068109 0
+78C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\parent-module\license133993045292965492 0
 84C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lightningcss\node\index.mjs133993045300234150 0
 83C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\parent-module\package.json133993045292313873 0
 79C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\@swc\core\package.json133993045307376683 0
@@ -2720,8 +2721,8 @@
 104C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\user-round-minus.js133993045333949083 0
 99C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\pointer.js.map133993045358028270 0
 119C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\010-introduction.md133993045303597765 0
-101C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\skip-back.js.map133993045361266874 0
 101C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\arrow-up-left.js133993045305005468 0
+101C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\skip-back.js.map133993045361266874 0
 102C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\@parcel\packager-js\src\GlobalOutputFormat.js133993045329117125 0
 75C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\node-releases\data133993045293294470 1
 91C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\@parcel\runtime-service-worker\lib133993045318985998 1
@@ -3521,8 +3522,8 @@
 104C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\battery-plus.js.map133993045338042424 0
 78C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lmdb\rollup.config.js133993045305806260 0
 100C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\folder-git-2.js133993045319328647 0
-98C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\beaker.js.map133993045338092832 0
 108C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\circle-check-big.js.map133993045343050272 0
+98C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\beaker.js.map133993045338092832 0
 100C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\bean-off.js.map133993045338108776 0
 86C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\@parcel\core\src\constants.js133993045345994536 0
 92C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\bean.js133993045306182404 0
@@ -4117,7 +4118,6 @@
 99C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\compass.js.map133993045344966690 0
 97C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\equal.js.map133993045347878051 0
 97C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\list-todo.js133993045323960077 0
-95C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\@parcel\package-manager\lib\index.d.ts133993045330443507 0
 101C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\component.js.map133993045344966690 0
 98C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\caniuse-lite\data\features\sql-storage.js133993045320010209 0
 96C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\lucide-react\dist\esm\icons\computer.js133993045314630666 0
@@ -8403,6 +8403,7 @@
 106C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\@parcel\package-manager\src\promiseFromProcess.js133993045330146452 0
 93C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\@parcel\package-manager\src\utils.js133993045330166465 0
 92C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\@parcel\package-manager\src\Yarn.js133993045330226447 0
+95C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\@parcel\package-manager\lib\index.d.ts133993045330443507 0
 86C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\@parcel\optimizer-swc\LICENSE133993045329806822 0
 91C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\@parcel\optimizer-swc\package.json133993045329806822 0
 82C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\@parcel\optimizer-swc\src133993045329806822 1
@@ -8737,8 +8738,8 @@
 72C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\.bin\semver.cmd133993045369484265 0
 84C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\.bin\update-browserslist-db133993045369494290 0
 88C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\node_modules\.bin\update-browserslist-db.cmd133993045369484265 0
-67C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\dist\index.61d3354a.css133993049519056222 0
-71C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\dist\index.61d3354a.css.map133993049519056222 0
-66C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\dist\index.7271efb6.js133993049519683613 0
-70C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\dist\index.7271efb6.js.map133993049519807240 0
-59C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\dist\index.html133993049518874613 0
+67C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\dist\index.61d3354a.css133993091837224810 0
+71C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\dist\index.61d3354a.css.map133993091837342599 0
+66C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\dist\index.7271efb6.js133993091837318954 0
+70C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\dist\index.7271efb6.js.map133993091837342599 0
+59C:\Users\hp\Desktop\foodDeliveryApp\FoodApp\dist\index.html133993091837224810 0
