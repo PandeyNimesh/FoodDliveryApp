@@ -263,14 +263,6 @@ GET https://www.swiggy.com/mapi/menu/pl
 &restaurantId={id}
 ```
 
-### CORS Proxy
-Due to CORS restrictions, the app uses a proxy server:
-```javascript
-const proxyServer = "https://cors-anywhere.herokuapp.com/";
-const response = await fetch(proxyServer + swiggyAPI);
-```
-
-**Note**: You may need to request temporary access at https://cors-anywhere.herokuapp.com/corsdemo before using the app.
 
 ## 🎨 Styling
 
